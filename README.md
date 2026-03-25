@@ -25,6 +25,12 @@ Sou um desenvolvedor em constante evolução, focado em construir aplicações r
 
 ---
 
+### 📊 Minhas Estatísticas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyMightFalll&layout=compact&langs_count=7&theme=dracula)
+
+---
+
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-70b947316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
