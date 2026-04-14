@@ -9,18 +9,13 @@ Sou um desenvolvedor em constante evolução, focado em construir aplicações r
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005963?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ## 🚀 No meu radar (Estudos Atuais)
 
 - **Back-end:** FastAPI, SQLAlchemy, PostgreSQL
-- **Front-end:** Vite, Tailwind CSS
-- **Infra:** Docker & Docker Compose
 - **Testes:** Postman
 
 ---
